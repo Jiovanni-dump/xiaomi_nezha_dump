@@ -1,0 +1,11 @@
+<permissions>
+    <privapp-permissions package="com.xiaomi.bdsms">
+        <permission name="android.permission.USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER" />
+        <permission name="android.permission.READ_PHONE_STAT"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE" />
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+    </privapp-permissions>
+</permissions>
