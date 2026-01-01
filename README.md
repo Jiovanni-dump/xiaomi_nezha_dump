@@ -1,0 +1,14 @@
+# missi-user 16 BP2A.250605.031.A3 OS3.0.7.0.WPACNXM release-keys
+- manufacturer: xiaomi
+- platform: canoe
+- codename: nezha
+- flavor: missi-user
+- release: 16
+- id: BP2A.250605.031.A3
+- incremental: OS3.0.7.0.WPACNXM
+- tags: release-keys
+- fingerprint: Xiaomi/nezha/nezha:16/BQ2A.250705.001-BP2A.250605.031.A3/OS3.0.7.0.WPACNXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-16-BP2A.250605.031.A3-OS3.0.7.0.WPACNXM-release-keys
+- repo: xiaomi_nezha_dump

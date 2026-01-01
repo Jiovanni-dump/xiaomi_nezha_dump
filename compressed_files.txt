@@ -1,0 +1,15 @@
+odm/lib64/libarcsoft_turbo_hdr_raw.so.xz
+odm/lib64/libarcsoft_raw_sr.so.xz
+odm/firmware_qtvm/system.img.xz
+odm/etc/camera/aisn.bin.xz
+odm/etc/camera/hdsr_minn.bin.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/priv-app/MIUIBrowser/MIUIBrowser.apk.xz
+product/priv-app/NewCall/NewCall.apk.xz
+product/priv-app/MIUIAICR/MIUIAICR.apk.xz
+product/data-app/MIUIMusicT/MIUIMusicT.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/data-app/SmartHome/SmartHome.apk.xz
+recovery.img.xz
+product/data-app/Health/Health.apk.xz
+system_ext/priv-app/Settings/Settings.apk.xz

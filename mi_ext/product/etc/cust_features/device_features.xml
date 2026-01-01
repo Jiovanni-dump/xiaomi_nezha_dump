@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cust_features>
+    <cust_feature>
+        <bool name="persist.vendor.bluetooth.lhdc_v5.supported">true</bool>
+        <bool name="persist.vendor.bluetooth.lhdc_v4.supported">true</bool>
+        <bool name="powerkeeper_SocOptimization2">true</bool>
+        <bool name="powerkeeper_DynamicTurboPower">true</bool>
+        <bool name="powerkeeper_ExtremeScenarioAware">true</bool>
+        <bool name="persist.vendor.bluetooth.bqr.supported">true</bool>
+        <bool name="support_virtual_call">true</bool>
+        <bool name="support_perfsense_dfs">true</bool>
+        <bool name="video_config_mi_aie_enable">true</bool>
+        <bool name="video_config_mi_ais_enable">true</bool>
+        <bool name="wifi_tx_boost_allowed">true</bool>
+        <bool name="wifi_twt_qcom">true</bool>
+        <bool name="device_on_platform_8850">true</bool>
+        <bool name="config_support_cn_sar_st">true</bool>
+        <bool name="config_support_cn_sar">true</bool>
+        <bool name="haptic_config_bcl_support">true</bool>
+        <integer name="config_wifi_sar_pattern">10</integer>
+        <integer name="audiozoom_device_type">10</integer>
+        <bool name="digitalkey_qcom_uwb_device">true</bool>
+        <bool name="usb_camera_handle_p1">true</bool>
+        <bool name="low_temp_charge">true</bool>
+        <bool name="low_power_doze_enabled">true</bool>
+        <bool name="gnss_is_support_gsco">true</bool>
+        <bool name="config_supported_aon_devices">true</bool>
+        <bool name="turbosched_check_is_special_topology">true</bool>
+        <bool name="input_scroller_optimization_normal_support">true</bool>
+    </cust_feature>
+</cust_features>
