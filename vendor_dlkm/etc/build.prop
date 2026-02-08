@@ -1,0 +1,29 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Xiaomi
+ro.product.vendor_dlkm.device=nezha
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=2512BPNDAC
+ro.product.vendor_dlkm.name=nezha
+ro.product.vendor_dlkm.marketname=Xiaomi 17 Ultra
+ro.product.vendor_dlkm.cert=2512BPNDAC
+ro.product.model_for_attestation=2512BPNDAC
+ro.product.brand_for_attestation=Xiaomi
+ro.product.name_for_attestation=nezha
+ro.product.device_for_attestation=nezha
+ro.product.manufacturer_for_attestation=Xiaomi
+ro.vendor_dlkm.build.date=Wed Feb  4 21:32:27 CST 2026
+ro.vendor_dlkm.build.date.utc=1770211947
+ro.vendor_dlkm.build.fingerprint=Xiaomi/nezha/nezha:16/BQ2A.250705.001-BP2A.250605.031.A3/OS3.0.15.0.WPACNXM:user/release-keys
+ro.vendor_dlkm.build.id=BQ2A.250705.001-BP2A.250605.031.A3
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=OS3.0.15.0.WPACNXM
+ro.vendor_dlkm.build.version.release=16
+ro.vendor_dlkm.build.version.release_or_codename=16
+ro.vendor_dlkm.build.version.sdk=36
+ro.vendor_dlkm.build.version.sdk_full=36.0
+# end of file
+
